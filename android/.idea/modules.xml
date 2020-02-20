@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/esys_flutter_share-1.0.2/android/esys_flutter_share.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/esys_flutter_share-1.0.2/android/esys_flutter_share.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+9/android/firebase_admob.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+9/android/firebase_admob.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/flutter_pdf_viewer.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_pdf_viewer-0.6.1/android/flutter_pdf_viewer.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share-1.0.2+1/android/flutter_share.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share-1.0.2+1/android/flutter_share.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.5.0/android/path_provider.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.5.0/android/path_provider.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-4.2.0+hotfix.3/android/permission_handler.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-4.2.0+hotfix.3/android/permission_handler.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_scaffold-1.2.0/android/plugin_scaffold.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/plugin_scaffold-1.2.0/android/plugin_scaffold.iml" />
+      <module fileurl="file://C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.4+8/android/shared_preferences.iml" filepath="C:/src/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.4+8/android/shared_preferences.iml" />
+    </modules>
+  </component>
+</project>
